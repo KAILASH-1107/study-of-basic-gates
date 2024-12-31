@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### STUDY OF BASIC GATES
 # DATE : 26-09-2024
 **AIM:** 
 
